@@ -16,7 +16,7 @@ Languages:
 
 
  A nice little animation using @keyframes 💻
-  # 🌀 Look Animation : ➡️
+  # 🌀 Look Animation : ➡️ https://sarah-jpro.github.io/Animation-Earth-Mercury/
 
 <p align="center">
  <img src="img\vue-projet.jpeg" width="800">
